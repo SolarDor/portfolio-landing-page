@@ -1,6 +1,7 @@
 img {
   width: 100%;
   height: auto;
+  float: bottom;
 }
 
 .jumbotron {
@@ -94,6 +95,7 @@ h1 {
   font-family: courier;
   float: right;
   color: white;
+  font-weight: bold;
 }
 
 a {
@@ -112,6 +114,7 @@ h2 {
 li {
   text-align: center;
   font-weight: bold;
+  color: white;
 }
 
 .important {
