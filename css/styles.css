@@ -1,5 +1,5 @@
 img {
-  float: left;
+  float: right;
   width: 40%;
 }
 
@@ -8,4 +8,8 @@ img {
   border-width: 5px;
   border-style: solid;
   border-color: black;
+}
+
+h1 {
+  
 }
