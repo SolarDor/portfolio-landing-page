@@ -1,5 +1,5 @@
 img {
-  width: 26%;
+  width: 100%;
   height: auto;
 }
 
@@ -10,7 +10,10 @@ img {
   border-color: black;
   text-align: center;
 }
-
+.box1 {
+  float: right;
+  text-align: center;
+}
 .box {
   border-radius: 10px;
   border width: 2px;
@@ -43,5 +46,23 @@ img {
 }
 
 p {
+  text-align: center;
+}
+
+h1 {
+  height: 50%;
+  font-family: courier;
+  float: right;
+  color: white;
+}
+
+a {
+  height: 40%;
+  float: right;
+  font-family: courier;
+  color: white;
+}
+
+h2 {
   text-align: center;
 }
