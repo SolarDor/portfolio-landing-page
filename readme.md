@@ -21,7 +21,7 @@ This Friday project is intended to utilize all of tools and skills we've obtaine
 
 ## GitHub Link
 
-* <SolarDor.github.io/portfolio-landing-page>
+* <https://SolarDor.github.io/portfolio-landing-page>
 
 ### Legal
 
