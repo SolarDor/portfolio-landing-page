@@ -1,0 +1,11 @@
+img {
+  float: left;
+  width: 40%;
+}
+
+.jumbotron {
+  border-radius: 30px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black;
+}
