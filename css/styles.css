@@ -8,27 +8,31 @@ img {
   border-width: 5px;
   border-style: solid;
   border-color: black;
+  text-align: center;
 }
 
 .column1 {
   float: left;
+  width: 30%;
   margin: 12px;
-  background-color: skyblue;
-  border: 4px solid darkslategray;
+  background-color: rgb(110, 157, 175);
+  border: 4px solid rgb(83, 83, 83);
   padding: 4px;
 }
 .column2 {
-  float: left;
+  float: center;
+  width: 30%;
   margin: 12px;
-  background-color: skyblue;
-  border: 4px solid darkslategray;
+  background-color: rgb(110, 157, 175);
+  border: 4px solid rgb(83, 83, 83);
   padding: 4px;
 }
 .column3 {
-  float: left;
+  float: right;
+  width: 30%;
   margin: 12px;
-  background-color: skyblue;
-  border: 4px solid darkslategray;
+  background-color: rgb(110, 157, 175);
+  border: 4px solid rgb(83, 83, 83);
   padding: 4px;
 }
 
