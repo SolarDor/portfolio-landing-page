@@ -11,6 +11,12 @@ img {
   text-align: center;
 }
 
+.box {
+  border-radius: 10px;
+  border width: 2px;
+  border-style: solid;
+}
+
 .column1 {
   float: left;
   width: 30%;
