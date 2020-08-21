@@ -10,8 +10,11 @@ This Friday project is intended to utilize all of tools and skills we've obtaine
 
 ## Setup
 
-* Download all files from repository
-* Run on browser
+* _open terminal_
+* _type "cd desktop", then press enter_
+* _type "git clone https://github.com/SolarDor/portfolio-landing-page/", then press enter_
+* _locate and open folder on desktop named "portfolio-landing-page"_
+* _open the file named "index.html"_
 
 ## Technologies Used
 
